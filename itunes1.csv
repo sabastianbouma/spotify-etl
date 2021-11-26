@@ -1,0 +1,275 @@
+Album,Artist,Genre,Genres (broad),Year,Track Count,Runtime,Genres Major,Genres Minor
+98.12.28 Otokotachi no Wakare,Fishmans,Dream Pop,Psychedelic,1999.0,14,130.0,['Dream Pop'],"['Dub', 'Neo-Psychedelia', 'Ambient Pop', 'Progressive Pop']"
+Souvlaki,Slowdive,Dream Pop,Psychedelic,1993.0,10,41.0,"['Dream Pop', 'Shoegaze']",[]
+Remain In Light,Talking Heads,New Wave,Punk,1980.0,8,40.0,"['New Wave', 'Post-Punk']","['Funk', 'Afrobeat', 'Experimental Rock']"
+Lift Yr. Skinny Fists Like Antennas To Heaven!,Godspeed You! Black Emperor,Post-Rock,Experimental,2000.0,4,87.0,['Post-Rock'],"['Field Recordings', 'Drone', 'Chamber Music', 'Ambient']"
+To Be Kind,Swans,Experimental Rock,Experimental,2014.0,10,121.0,"['Experimental Rock', 'Post-Rock']","['Noise Rock', 'Drone', 'No Wave', 'Post-Punk']"
+The Glow Pt. 2,The Microphones,Lo-Fi Indie,Folk,2001.0,20,66.0,"['Lo-Fi Indie', 'Indie Folk', 'Psychedelic Folk']","['Noise Rock', 'Avant-Folk', 'Singer/Songwriter']"
+The Name of This Band Is Talking Heads,Talking Heads,New Wave,Punk,1982.0,17,83.0,"['New Wave', 'Art Punk', 'Post-Punk']","['Funk', 'Art Rock']"
+A Crow Looked at Me,Mount Eerie,Singer/Songwriter,Folk,2017.0,11,42.0,"['Singer/Songwriter', 'Indie Folk']",['Slowcore']
+F♯ A♯ ∞,Godspeed You! Black Emperor,Post-Rock,Experimental,1997.0,4,60.0,['Post-Rock'],"['Spoken Word', 'Field Recordings', 'Ambient', 'Drone']"
+Mount Eerie,The Microphones,Avant-Folk,Folk,2003.0,5,41.0,"['Avant-Folk', 'Psychedelic Folk']","['Drone', 'Field Recordings', 'Tribal Ambient', 'Ambient', 'Experimental']"
+My Beautiful Dark Twisted Fantasy,Kanye West,Hip-Hop,Hip-Hop,2010.0,14,69.0,"['Hip-Hop', 'Pop Rap']",['Art Pop']
+Zombie,Fela Anikulapo Kuti and Afrika 70,Afrobeat,Experimental,1977.0,4,54.0,['Afrobeat'],['Jazz-Funk']
+Future Days,Can,Krautrock,Rock,1973.0,4,41.0,['Krautrock'],"['Psychedelic Rock', 'Experimental Rock', 'Ambient']"
+Grace,Jeff Buckley,Singer/Songwriter,Folk,1994.0,10,52.0,"['Singer/Songwriter', 'Alternative Rock']",['Acoustic Rock']
+Carrie & Lowell Live,Sufjan Stevens,Art Pop,Folk,2017.0,16,89.0,"['Art Pop', 'Indie Folk', 'Singer/Songwriter']","['Folktronica', 'Chamber Folk', 'Ambient Pop', 'Progressive Pop']"
+Carrie & Lowell,Sufjan Stevens,Indie Folk,Folk,2015.0,11,44.0,"['Indie Folk', 'Singer/Songwriter']","['Chamber Folk', 'Ambient Pop']"
+The Rise and Fall of Ziggy Stardust and the Spiders From Mars,David Bowie,Glam Rock,Rock,1972.0,11,38.0,"['Glam Rock', 'Pop Rock']","['Art Rock', 'Rock Opera']"
+Disintegration,The Cure,Gothic Rock,Punk,1989.0,12,72.0,"['Gothic Rock', 'Post-Punk']",['Dream Pop']
+Currents,Tame Impala,Psychedelic Pop,Psychedelic,2015.0,13,51.0,"['Psychedelic Pop', 'Synthpop', 'Neo-Psychedelia']","['Dream Pop', 'Alternative R&B']"
+Illinois,Sufjan Stevens,Chamber Pop,Folk,2005.0,22,74.0,"['Chamber Pop', 'Singer/Songwriter', 'Indie Pop']","['Chamber Folk', 'Americana', 'Folk Pop', 'Progressive Pop']"
+"For Emma, Forever Ago",Bon Iver,Indie Folk,Folk,2008.0,9,36.0,"['Indie Folk', 'Singer/Songwriter', 'Contemporary Folk']",['Lo-Fi Indie']
+Abbey Road,The Beatles,Pop Rock,Pop,1969.0,17,47.0,['Pop Rock'],"['Psychedelic Pop', 'Art Pop']"
+blond,Frank Ocean,Alternative R&B,R&B,2016.0,17,60.0,"['Alternative R&B', 'Neo-Soul', 'Art Pop']","['Ambient Pop', 'Singer/Songwriter', 'Art Pop']"
+Sound of Silver,LCD Soundsystem,Dance-Punk,Punk,2007.0,9,56.0,"['Dance-Punk', 'Indietronica']","['Alternative Dance', 'Electro-Disco']"
+This Is Happening,LCD Soundsystem,Dance-Punk,Punk,2010.0,9,66.0,"['Dance-Punk', 'Indietronica']","['Alternative Dance', 'New Wave', 'Electro Disco']"
+"Power, Corruption & Lies",New Order,Synthpop,Pop,1983.0,10,58.0,"['Synthpop', 'New Wave', 'Post-Punk']",['Alternative Dance']
+OK Computer,Radiohead,Art Rock,Rock,1997.0,12,53.0,"['Art Rock', 'Alternative Rock']",[]
+Teens Of Denial,Car Seat Headrest,Indie Rock,Rock,2016.0,12,70.0,['Indie Rock'],"['Power Pop', 'Garage Rock Revival']"
+Lush,Snail Mail,Indie Rock,Rock,2018.0,10,38.0,"['Indie Rock', 'Indie Pop']",['Singer/Songwriter']
+Who Is William Onyeabor?,William Onyeabor,Afro-Funk,Psychedelic,2013.0,9,73.0,['Afro-Funk'],"['Synth Funk', 'Disco']"
+Unknown Pleasures,Joy Division,Post-Punk,Punk,1979.0,10,39.0,['Post-Punk'],['Gothic Rock']
+Rumours,Fleetwood Mac,Pop Rock,Pop,1977.0,11,45.0,"['Pop Rock', 'Soft Rock']",['Folk Pop']
+Hounds Of Love,Kate Bush,Art Pop,Pop,1985.0,12,47.0,"['Art Pop', 'Progressive Pop']","['Synthpop', 'Baroque Pop']"
+Twin Fantasy,Car Seat Headrest,Lo-Fi Indie,Rock,2011.0,10,61.0,['Lo-Fi Indie'],"['Singer/Songwriter', 'Noise Pop']"
+Heaven Or Las Vegas,Cocteau Twins,Dream Pop,Pop,1990.0,10,38.0,['Dream Pop'],"['Ethereal Wave', 'Shoegaze']"
+LCD Soundsystem,LCD Soundsystem,Dance-Punk,Punk,2005.0,16,99.0,"['Dance-Punk', 'Indietronica']","['Alternative Dance', 'Synth-Punk', 'Nu-Disco', 'Post-Punk Revival']"
+Bluffer's Guide to the Flight Deck,Flotation Toy Warning,Neo-Psychedelia,Psychedelic,2004.0,10,71.0,"['Neo-Psychedelia', 'Indie Pop']","['Chamber Pop', 'Dream Pop', 'Post-Rock']"
+Forget,Xiu Xiu,Art Pop,Experimental,2017.0,10,44.0,"['Art Pop', 'Noise Pop']","['Synth Punk', 'Experimental Rock', 'Post-Industrial']"
+Slow Riot for New Zerø Kanada,Godspeed You! Black Emperor,Post-Rock,Experimental,1999.0,2,29.0,['Post-Rock'],"['Spoken Word', 'Field Recordings', 'Chamber Music', 'Interview']"
+Loveless,My Bloody Valentine,Shoegaze,Experimental,1991.0,11,47.0,"['Shoegaze', 'Noise Pop']",['Dream Pop']
+In the Court of the Crimson King,King Crimson,Progressive Rock,Rock,1969.0,5,44.0,"['Progressive Rock', 'Art Rock']","['Symphonic Prog', 'Free Improvisation', 'Jazz-Rock', 'Psychedelic Rock']"
+In The Aeroplane Over The Sea,Neutral Milk Hotel,Indie Folk,Folk,1998.0,11,39.0,"['Indie Folk', 'Indie Rock']","['Psychedelic Folk', 'Singer/Songwriter', 'Lo-Fi Indie', 'Brass Band']"
+Fear of Music,Talking Heads,New Wave,Pop,1979.0,11,41.0,"['New Wave', 'Post-Punk']",['Funk Rock']
+A Laughing Death in Meatspace,Tropical Fuck Storm,Art Punk,Punk,2018.0,9,47.0,"['Art Punk', 'Punk Blues', 'Noise Rock']","['Psychedelic Rock', 'Post-Punk', 'Experimental Rock']"
+Modern Vampires Of The City,Vampire Weekend,Indie Pop,Pop,2013.0,12,43.0,['Indie Pop'],"['Chamber Pop', 'Art Pop']"
+Untrue,Burial,Future Garage,Electronic,2007.0,13,51.0,"['Future Garage', 'Dubstep']","['2-Step', 'Ambient']"
+Plantasia,Mort Garson,Progressive Electronic,Electronic,1976.0,10,30.0,"['Progressive Electronic', 'Space Age Pop']",['Space Ambient']
+First Utterance,Comus,Progressive Folk,Folk,1971.0,7,49.0,"['Progressive Folk', 'Psychedelic Folk', 'Freak Folk']",['Avant-Folk']
+Speaking In Tongues,Talking Heads,New Wave,Punk,1983.0,9,41.0,"['New Wave', 'Art Pop']","['Funk', 'Synth Funk', 'Art Rock']"
+OIL OF EVERY PEARL'S UN-INSIDES,SOPHIE,Bubblegum Bass,Electronic,2018.0,9,40.0,"['Bubblegum Bass', 'Deconstructed Club']","['Art Pop', 'Wonky', 'Glitch Pop', 'Ambient', 'Ambient Pop']"
+Skeleton Tree,Nick Cave and The Bad Seeds,Singer/Songwriter,Folk,2016.0,8,40.0,"['Singer/Songwriter', 'Art Rock']","['Ambient', 'Spoken Word', 'Drone']"
+To Pimp a Butterfly,Kendrick Lamar,Conscious Hip-Hop,Hip-Hop,2015.0,16,79.0,"['Conscious Hip-Hop', 'Jazz Rap', 'West Coast Hip-Hop']","['Political Hip-Hop', 'Funk', 'Neo-Soul', 'Experimental Hip-Hop']"
+Pastel Blues,Nina Simone,Vocal Jazz,Blues,1965.0,9,36.0,"['Vocal Jazz', 'Soul', 'Rhythm & Blues']",['Blues']
+In Colour,Jamie xx,UK Bass,Electronic,2015.0,11,43.0,['UK Bass'],"['Deep House', 'Future Garage', 'Downtempo']"
+Blackstar,David Bowie,Art Rock,Rock,2016.0,7,41.0,['Art Rock'],"['Jazz-Rock', 'Experimental Rock', 'Electronic']"
+Wish You Were Here,Pink Floyd,Progressive Rock,Rock,1975.0,5,44.0,"['Progressive Rock', 'Art Rock']",[]
+Sgt. Pepper's Lonely Hearts Club Band,The Beatles,Psychedelic Pop,Psychedelic,1967.0,13,39.0,"['Psychedelic Pop', 'Pop Rock']","['Art Rock', 'Psychedelic Rock', 'Baroque Pop', 'Sunshine Pop']"
+Everything Is Possible!,Os Mutantes,Psychedelic Pop,Psychedelic,1999.0,14,51.0,"['Psychedelic Pop', 'Psychedelic Rock', 'Tropicália']",['Bossa nova']
+Expensive Shit,Fela Ransome Kuti & The Africa 70,Afrobeat,Experimental,1975.0,2,24.0,['Afrobeat'],"['Jazz-Funk', 'Afro-Jazz']"
+6 Feet Beneath the Moon,King Krule,Singer/Songwriter,Folk,2013.0,14,52.0,"['Singer/Songwriter', 'Art Rock', 'Art Pop']","['Trip Hop', 'Post-Punk', 'Alternative R&B', 'Jazz-Rock']"
+Let Love In,Nick Cave and The Bad Seeds,Post-Punk,Punk,1994.0,10,48.0,"['Post-Punk', 'Alternative Rock']","['Gothic Rock', 'Punk Blues']"
+Islands (Part 1),No Mono,Experimental Pop,Pop,2018.0,9,36.0,"['Experimental Pop', 'Alternative R&B']",['Indie Folk']
+Uchū Nippon Setagaya,Fishmans,Dream Pop,Pop,1997.0,8,59.0,"['Dream Pop', 'Ambient Pop']","['Dub', 'Neo-Psychedelia', 'Trip Hop']"
+A Moon Shaped Pool,Radiohead,Art Rock,Rock,2016.0,11,53.0,"['Art Rock', 'Chamber Pop', 'Art Pop']","['Ambient Pop', 'Electronic']"
+The Recordings Of The Middle East,The Middle East,Chamber Folk,Folk,2009.0,5,26.0,['Chamber Folk'],['Chamber Pop']
+Afterlife,No Zu,Dance-Punk,Experimental,2016.0,8,42.0,['Dance-Punk'],"['Afrobeat', 'No Wave']"
+Get to Heaven,Everything Everything,Progressive Pop,Pop,2015.0,17,67.0,"['Progressive Pop', 'Art Pop']","['Indietronica', 'New Wave', 'Alternative Dance']"
+Antisocialites,Alvvays,Indie Pop,Pop,2017.0,10,33.0,"['Indie Pop', 'Jangle Pop']","['Dream Pop', 'Twee Pop']"
+Pet Sounds,The Beach Boys,Baroque Pop,Pop,1966.0,13,37.0,['Baroque Pop'],"['Sunshine Pop', 'Psychedelic Pop', 'Progressive Pop']"
+Nonagon Infinity,King Gizzard & The Lizard Wizard,Psychedelic Rock,Psychedelic,2016.0,9,42.0,"['Psychedelic Rock', 'Garage Rock']",['Heavy Psych']
+"good kid, m.A.A.d city (Deluxe Edition)",Kendrick Lamar,West Coast Hip-Hop,Hip-Hop,2012.0,16,88.0,"['West Coast Hip-Hop', 'Conscious Hip-Hop']","['Hardcore Hip-Hop', 'Pop Rap']"
+Marquee Moon,Television,Art Punk,Punk,1977.0,8,45.0,"['Art Punk', 'Post-Punk']",[]
+I'm In Your Mind Fuzz,King Gizzard & The Lizard Wizard,Psychedelic Rock,Psychedelic,2014.0,10,42.0,"['Psychedelic Rock', 'Garage Rock']","['Heavy Psych', 'Krautrock']"
+The Money Store,Death Grips,Experimental Hip-Hop,Experimental,2012.0,13,41.0,"['Experimental Hip-Hop', 'Hardcore Hip-Hop', 'Industrial Hip-Hop']","['Glitch Hop', 'Abstract Hip-Hop']"
+"22, A Million",Bon Iver,Art Pop,Pop,2016.0,10,34.0,"['Art Pop', 'Folktronica']","['Glitch Pop', 'Ambient Pop']"
+Twin Fantasy (2018 Reissue),Car Seat Headrest,Indie Rock,Rock,2018.0,10,71.0,['Indie Rock'],"['Singer/Songwriter', 'Power Pop']"
+The Age of Adz,Sufjan Stevens,Art Pop,Folk,2010.0,11,75.0,"['Art Pop', 'Progressive Pop']","['Glitch Pop', 'Folktronica', 'Chamber Pop']"
+MTV Unplugged in New York,Nirvana,Acoustic Rock,Rock,1994.0,14,54.0,"['Acoustic Rock', 'Alternative Rock']","['Grunge', 'Folk Rock']"
+Leak 04-13 (Bait Ones),Jai Paul,Alternative R&B,R&B,2019.0,16,37.0,"['Alternative R&B', 'Indietronica']","['Wonky', 'Synth Funk', 'Electropop', 'UK Bass', 'Chillwave', 'Art Pop']"
+WORRY.,Jeff Rosenstock,Pop Punk,Punk,2016.0,17,38.0,"['Pop Punk', 'Power Pop', 'Indie Rock']","['Punk Rock', 'Singer/Songwriter']"
+"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,Indie Rock,Rock,2006.0,13,41.0,"['Indie Rock', 'Garage Rock Revivial']",['Post-Punk Revival']
+LP1,FKA twigs,Alternative R&B,R&B,2014.0,10,41.0,"['Alternative R&B', 'Art Pop']","['Wonky', 'Trip Hop', 'Deconstructed Club']"
+A Quality of Mercy,RVG,Indie Rock,Rock,2017.0,8,29.0,"['Indie Rock', 'Post-Punk']",['Punk Blues']
+Lonerism,Tame Impala,Neo-Psychedelia,Psychedelic,2012.0,12,52.0,['Neo-Psychedelia'],"['Psychedelic Pop', 'Psychedelic Rock']"
+Tea For The Tillerman,Cat Stevens,Singer/Songwriter,Folk,1970.0,11,37.0,"['Singer/Songwriter', 'Folk Rock', 'Folk Pop']",[]
+Ladies and Gentlemen We Are Floating in Space,Spiritualized,Neo-Psychedelia,Psychedelic,1997.0,12,70.0,"['Neo-Psychedelia', 'Space Rock', 'Art Rock']","['Dream Pop', 'Noise Pop', 'Symphonic Rock']"
+Revolver,The Beatles,Pop Rock,Pop,1966.0,14,35.0,"['Pop Rock', 'Psychedelic Pop']",['Psychedelic Rock']
+MAGDALENE,FKA twigs,Art Pop,Pop,2019.0,9,39.0,"['Art Pop', 'Glitch Pop']","['Ambient Pop', 'Alternative R&B', 'Deconstructed Club']"
+Discipline,King Crimson,Art Rock,Experimental,1981.0,7,38.0,"['Art Rock', 'Progressive Rock', 'New Wave']",['Avant-Prog']
+"""Heroes""",David Bowie,Art Rock,Rock,1977.0,10,41.0,['Art Rock'],"['Ambient', 'Electronic', 'Art Pop', 'Krautrock']"
+Dummy,Portishead,Trip Hop,Experimental,1994.0,11,49.0,['Trip Hop'],['Dark Jazz']
+Is This It,The Strokes,Indie Rock,Rock,2001.0,11,36.0,"['Indie Rock', 'Garage Rock Revivial']",['Post-Punk Revival']
+The Perfect Prescription,Spacemen 3,Neo-Psychedelia,Psychedelic,1987.0,8,46.0,"['Neo-Psychedelia', 'Space Rock']","['Garage Rock', 'Shoegaze']"
+GREY Area,Little Simz,UK Hip-Hop,Hip-Hop,2019.0,10,35.0,"['UK Hip-Hop', 'Conscious Hip-Hop']","['Jazz Rap', 'Neo-Soul', 'Hardcore Hip-Hop']"
+Since I Left You,The Avalanches,Plunderphonics,Electronic,2000.0,18,60.0,['Plunderphonics'],"['Instrumental Hip-Hop', 'Nu-Disco']"
+IGOR,"Tyler, the Creator",Neo-Soul,R&B,2019.0,12,40.0,"['Neo-Soul', 'Experimental Hip-Hop', 'Psychedelic Soul']","['Alternative R&B', 'Neo-Psychedelia', 'Synth Funk']"
+About Face,#1 Dads,Indie Folk,Folk,2014.0,9,37.0,['Indie Folk'],['Art Pop']
+Man On The Moon: The End Of Day,Kid Cudi,Pop Rap,Hip-Hop,2009.0,15,59.0,['Pop Rap'],"['Synthpop', 'Art Pop', 'Experimental Hip-Hop', 'Emo Rap']"
+Go Farther In Lightness,Gang Of Youths,Indie Rock,Rock,2017.0,16,77.0,['Indie Rock'],"['Chamber Pop', 'Heartland Rock', 'Post-Punk Revival']"
+Melodrama,Lorde,Synthpop,Pop,2017.0,11,41.0,"['Synthpop', 'Art Pop']","['Electropop', 'Dance-Pop', 'Alternative R&B']"
+Back to Black,Amy Winehouse,Soul,Blues,2006.0,11,35.0,"['Soul', 'Rhythm & Blues']","['Neo-Soul', 'Jazz Pop', 'Pop Soul']"
+Q: Are We Not Men? A: We Are Devo!,Devo,New Wave,Pop,1978.0,11,35.0,"['New Wave', 'Post-Punk', 'Art Punk']","['Synth-Punk', 'Zolo']"
+Helplessness Blues,Fleet Foxes,Chamber Folk,Folk,2011.0,12,50.0,"['Chamber Folk', 'Indie Folk']","['Folk Pop', 'Chamber Pop', 'Progressive Folk']"
+New Mexico,Oppenheimer Analysis,Synthpop,Electronic,1982.0,12,55.0,"['Synthpop', 'Minimal Synth']",[]
+Remind Me Tomorrow,Sharon Van Etten,Indie Pop,Pop,2019.0,10,41.0,"['Indie Pop', 'Synthpop']","['Indietronica', 'Art Pop']"
+Funeral,Arcade Fire,Indie Rock,Rock,2004.0,10,47.0,"['Indie Rock', 'Chamber Pop']",['Art Pop']
+Madvillainy,Madvillain,Abstract Hip-Hop,Hip-Hop,2004.0,22,46.0,['Abstract Hip-Hop'],"['Jazz Rap', 'Experimental Hip-Hop', 'Instrumental Hip-Hop']"
+An Awesome Wave,Alt-J,Art Pop,Pop,2012.0,13,41.0,"['Art Pop', 'Indie Pop']","['Folktronica', 'Indietronica', 'Progressive Pop']"
+Down To Earth,Flight Facilities,Nu-Disco,Electronic,2012.0,14,64.0,['Nu-Disco'],"['Deep House', 'Downtemp']"
+Quarters!,King Gizzard & The Lizard Wizard,Psychedelic Rock,Psychedelic,2015.0,4,41.0,['Psychedelic Rock'],"['Jazz-Rock', 'Progressive Rock', 'Jam Band', 'Psychedelic Pop']"
+The Queen Is Dead,The Smiths,Jangle Pop,Pop,1986.0,10,37.0,"['Jangle Pop', 'Indie Pop']",['Post-Punk']
+Bon Iver,Bon Iver,Indie Folk,Folk,2011.0,10,39.0,"['Indie Folk', 'Art Pop']",['Chamber Folk']
+KIDS SEE GHOSTS,KIDS SEE GHOSTS,Pop Rap,Hip-Hop,2018.0,7,24.0,"['Pop Rap', 'Experimental Hip-Hop', 'Alternative R&B']","['Art Pop', 'Neo-Psychedelia']"
+We're New Here,Gil Scott-Heron and Jamie xx,UK Bass,Electronic,2011.0,14,36.0,"['UK Bass', 'Future Garage']","['Spoken Word', 'Dubstep', 'Soul']"
+Yoshimi Battles The Pink Robots,The Flaming Lips,Neo-Psychedelia,Psychedelic,2002.0,11,47.0,"['Neo-Psychedelia', 'Psychedelic Pop']","['Dream Pop', 'Electronic', 'Space Rock']"
+"Hissing Fauna, Are You the Destroyer?",of Montreal,Psychedelic Pop,Pop,2007.0,12,51.0,"['Psychedelic Pop', 'Indie Pop', 'Neo-Psychedelia']","['Art Pop', 'Glam Rock', 'Synthpop']"
+Beware of the Dogs,Stella Donnelly,Indie Pop,Pop,2019.0,13,43.0,"['Indie Pop', 'Singer/Songwriter']","['Twee Pop', 'Indie Rock', 'Jangle Pop']"
+Now Only,Mount Eerie,Indie Folk,Folk,2018.0,6,44.0,"['Indie Folk', 'Singer/Songwriter']","['Avant-Folk', 'Indie Rock']"
+(after),Mount Eerie,Singer/Songwriter,Folk,2018.0,12,58.0,"['Singer/Songwriter', 'Indie Folk']",[]
+The OOZ,King Krule,Art Rock,Rock,2017.0,19,66.0,['Art Rock'],"['Trip Hop', 'Post-Punk', 'Jazz-Rock', 'Nu Jazz', 'Alternative R&B', 'Experimental Rock', 'Neo-Psychedelia']"
+Flume (Deluxe Edition),Flume,Wonky,Electronic,2012.0,34,115.0,['Wonky'],"['Glitch Hop', 'Future Bass', 'Chillwave', 'Alternative R&B']"
+Dawn,Mount Eerie,Singer/Songwriter,Folk,2008.0,19,42.0,"['Singer/Songwriter', 'Indie Folk']",[]
+Songs of Leonard Cohen,Leonard Cohen,Contemporary Folk,Folk,1967.0,10,42.0,"['Contemporary Folk', 'Singer/Songwriter']",['Chamber Folk']
+Talking Heads: 77,Talking Heads,New Wave,Punk,1977.0,16,55.0,"['New Wave', 'Art Punk']","['Post-Punk', 'Funk Rock']"
+Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them,Bruno Pernadas,Art Pop,Pop,2016.0,10,53.0,"['Art Pop', 'Jazz Pop', 'Progressive Pop']","['Space Age Pop', 'Exotica', 'Lounge', 'Neo-Psychedelia', 'Krautrock']"
+Screamadelica,Primal Scream,Alternative Dance,Rock,1991.0,11,65.0,"['Alternative Dance', 'Neo-Psychedelia']","['Baggy / Madchester', 'Dub', 'House']"
+Utopia Defeated,D.D Dumbo,Art Pop,Pop,2016.0,10,37.0,"['Art Pop', 'Indie Pop']",['Indie Rock']
+The College Dropout,Kanye West,Hip-Hop,Hip-Hop,2004.0,21,76.0,['Hip-Hop'],"['Conscious Hip-Hop', 'Pop Rap', 'Neo-Soul']"
+Odessey and Oracle,The Zombies,Psychedelic Pop,Pop,1968.0,14,41.0,"['Psychedelic Pop', 'Baroque Pop']",['Sunshine Pop']
+SATURATION,BROCKHAMPTON,Pop Rap,Hip-Hop,2017.0,17,51.0,"['Pop Rap', 'West Coast Hip-Hop']","['Alternative R&B', 'Hardcore Hip-Hop', 'Experimental Hip-Hop']"
+Paper Mache Dream Balloon,King Gizzard & The Lizard Wizard,Psychedelic Folk,Psychedelic,2015.0,12,34.0,"['Psychedelic Folk', 'Psychedelic Pop']","['Neo-Psychedelia', 'Sunshine Pop']"
+Flower Boy,"Tyler, the Creator",West Coast Hip-Hop,Hip-Hop,2017.0,14,47.0,"['West Coast Hip-Hop', 'Neo-Soul']","['Synth Funk', 'Alternative R&B', 'Pop Rap']"
+Built On Glass,Chet Faker,Alternative R&B,R&B,2014.0,12,51.0,"['Alternative R&B', 'Indietronica']","['Contemporary R&B', 'Downtempo']"
+Polygondwanaland,King Gizzard & The Lizard Wizard,Psychedelic Rock,Psychedelic,2017.0,10,44.0,"['Psychedelic Rock', 'Progressive Rock']","['Space Rock', 'Acid Rock', 'Krautrock']"
+Braindrops,Tropical Fuck Storm,Art Punk,Punk,2019.0,9,48.0,"['Art Punk', 'Punk Blues']","['Post-Punk', 'Experimental Rock', 'Noise Rock']"
+Sketches Of Brunswick East,King Gizzard & The Lizard Wizard & Mild High Club,Jazz-Rock,Psychedelic,2017.0,13,37.0,"['Jazz-Rock', 'Neo-Psychedelia']","['Psychedelic Pop', 'Jazz-Funk', 'Bossa nova']"
+Endtroducing.....,DJ Shadow,Instrumental Hip-Hop,Hip-Hop,1996.0,13,63.0,"['Instrumental Hip-Hop', 'Experimental Hip-Hop', 'Plunderphonics']","['Turntablism', 'Trip Hop']"
+Big Fish Theory,Vince Staples,West Coast Hip-Hop,Hip-Hop,2017.0,12,36.0,"['West Coast Hip-Hop', 'Experimental Hip-Hop', 'Hardcore Hip-Hop']","['Hip House', 'UK Garage', 'Hyphy']"
+The Dark Side of the Moon,Pink Floyd,Progressive Rock,Rock,1973.0,9,43.0,"['Progressive Rock', 'Art Rock']","['Psychedelic Rock', 'Space Rock']"
+Kid A,Radiohead,Art Rock,Rock,2000.0,10,49.0,"['Art Rock', 'Experimental Hip-Hop', 'Electronic']",['Ambient']
+TA13OO,Denzel Curry,Southern Hip-Hop,Hip-Hop,2018.0,13,43.0,"['Southern Hip-Hop', 'Trap Rap']","['Conscious Hip-Hop', 'Hardcore Hip-Hop', 'Pop Rap']"
+Die Lit,Playboi Carti,Trap Rap,Hip-Hop,2018.0,19,58.0,"['Trap Rap', 'Cloud Rap', 'Southern Hip-Hop']","['Pop Rap', 'Experimental Hip-Hop']"
+Wide Awake!,Parquet Courts,Art Punk,Punk,2018.0,13,39.0,"['Art Punk', 'Indie Rock']","['Post-Punk', 'Dance-Punk']"
+Flying Microtonal Banana,King Gizzard & The Lizard Wizard,Psychedelic Rock,Psychedelic,2017.0,9,42.0,"['Psychedelic Rock', 'Garage Rock']","['Acid Rock', 'Anatolian Rock', 'Krautrock']"
+Charcoal Lane,Archie Roach,Singer/Songwriter,Folk,1990.0,10,44.0,"['Singer/Songwriter', 'Contemporary Folk']",[]
+808s & Heartbreak,Kanye West,Electropop,R&B,2008.0,12,52.0,"['Electropop', 'Synthpop', 'Contemporary R&B']","['Pop Rap', 'Alternative R&B', 'Art Pop', 'Emo Rap']"
+From Here To Eternity,Giorgio,Electro-Disco,Electronic,1977.0,8,30.0,['Electro-Disco'],"['Space Disco', 'Euro Disco', 'Italo-Disco']"
+Post,Björk,Art Pop,Pop,1995.0,11,46.0,"['Art Pop', 'Electronic']","['Trip Hop', 'Alternative Dance', 'Tribal House']"
+Green,Hiroshi Yoshimura,New Age,Electronic,1986.0,8,42.0,"['Ambient', 'New Age']","['Nature Recordings', 'Post-Minimalism']"
+AM,Arctic Monkeys,Indie Rock,Rock,2013.0,12,42.0,['Indie Rock'],"['Blues Rock', 'Alternative Rock']"
+Come Play the Trees,Snapped Ankles,Dance-Punk,Punk,2017.0,9,41.0,"['Dance-Punk', 'Post-Punk']","['Krautrock', 'Minimal Synth', 'Space Rock', 'New Wave']"
+Slowdive,Slowdive,Dream Pop,Pop,2017.0,8,46.0,"['Dream Pop', 'Shoegaze']",['Ambient Pop']
+Skin,Flume,Wonky,Electronic,2016.0,16,60.0,"['Wonky', 'Future Bass', 'Glitch Pop']","['Alternative R&B', 'Glitch Hop', 'Trap']"
+Forever Changes,Love,Psychedelic Pop,Pop,1967.0,11,43.0,"['Psychedelic Pop', 'Psychedelic Rock', 'Psychedelic Folk']",['Baroque Pop']
+Discovery,Daft Punk,French House,Electronic,2001.0,14,61.0,['French House'],"['Electro-Disco', 'Dance-Pop', 'Synth Funk', 'Synthpop']"
+Don't Say That,Superfood,Britpop,Rock,2014.0,13,38.0,"['Britpop', 'Indie Rock']","['Baggy / Madchester', 'Neo-Psychedelia']"
+Hospice,The Antlers,Indie Rock,Rock,2009.0,10,52.0,['Indie Rock'],"['Slowcore', 'Post-Rock', 'Ambient Pop', 'Art Rock', 'Dream Pop']"
+Pure Comedy,Father John Misty,Singer/Songwriter,Folk,2017.0,13,75.0,"['Singer/Songwriter', 'Piano Rock', 'Chamber Pop']","['Indie Folk', 'Chamber Folk']"
+untitled unmastered.,Kendrick Lamar,Jazz Rap,Hip-Hop,2016.0,8,34.0,"['Jazz Rap', 'Conscious Hip-Hop', 'West Coast Hip-Hop']","['Experimental Hip-Hop', 'Neo-Soul', 'Funk']"
+Another Green World,Brian Eno,Art Rock,Rock,1975.0,14,41.0,['Art Rock'],"['Electronic', 'Ambient', 'Art Pop']"
+The Life of Pablo,Kanye West,Hip-Hop,Pop,2016.0,19,60.0,"['Hip-Hop', 'Pop Rap']","['Contemporary R&B', 'Trap Rap', 'Experimental Hip-Hop', 'Art Pop']"
+Hi This Is Flume (Mixtape),Flume,Wonky,Electronic,2019.0,17,38.0,['Wonky'],"['Glitch Hop', 'Deconstructed Club', 'Trap', 'Future Bass']"
+Random Access Memories,Daft Punk,Nu-Disco,Electronic,2013.0,13,74.0,"['Nu-Disco', 'Disco']","['Synth Funk', 'Electro-Disco', 'Smooth Soul']"
+White Light From the Mouth of Infinity,Swans,Gothic Rock,Punk,1991.0,12,69.0,"['Gothic Rock', 'Post-Punk']",['Neofolk']
+Yeezus,Kanye West,Experimental Hip-Hop,Hip-Hop,2013.0,10,40.0,['Experimental Hip-Hop'],"['Industrial Hip-Hop', 'Hardcore Hip-Hop', 'Electro-Industrial']"
+channel ORANGE,Frank Ocean,Alternative R&B,R&B,2012.0,17,62.0,"['Alternative R&B', 'Contemporary R&B']","['Neo-Soul', 'Psychedelic Soul']"
+The Return,Sampa the Great,Neo-Soul,R&B,2019.0,19,78.0,"['Neo-Soul', 'Jazz Rap', 'Conscious Hip-Hop']","['Smooth Soul', 'Afrobeat']"
+Animal,Big Scary,Indie Rock,Rock,2016.0,13,57.0,['Indie Rock'],"['Indie Pop', 'Art Pop']"
+Honey Bones,Dope Lemon,Indie Rock,Psychedelic,2016.0,10,46.0,['Indie Rock'],['Neo-Psychedelia']
+DAYTONA,Pusha T,Hardcore Hip-Hop,Hip-Hop,2018.0,7,21.0,"['Hardcore Hip-Hop', 'Southern Hip-Hop']","['Gangsta Rap', 'Boom Bap']"
+At Folsom Prison,Johnny Cash,Country,Country,1968.0,19,56.0,['Country'],"['Outlaw Country', 'Rockabily', 'Traditional Country']"
+Soft Sounds From Another Planet,Japanese Breakfast,Dream Pop,Psychedelic,2017.0,12,37.0,"['Dream Pop', 'Indie Rock']","['Indie Pop', 'Art Pop']"
+american dream,LCD Soundsystem,Dance-Punk,Punk,2017.0,10,69.0,"['Dance-Punk', 'New Wave']","['Synthpop', 'Alternative Dance', 'Post-Punk Revival']"
+The Velvet Underground & Nico,The Velvet Underground,Art Rock,Rock,1967.0,11,48.0,"['Art Rock', 'Experimental Rock']","['Proto-Punk', 'Noise Rock', 'Garage Rock', 'Psychedelic Rock']"
+Nothing Great About Britain,slowthai,UK Hip-Hop,Hip-Hop,2019.0,11,33.0,['UK Hip-Hop'],"['Grime', 'Political Hip-Hop', 'Hardcore Hip-Hop']"
+Puddinghead,Ball Park Music,Indie Pop,Rock,2014.0,11,40.0,['Indie Pop'],['Indie Rock']
+Run the Jewels 2,Run the Jewels,Hardcore Hip-Hop,Hip-Hop,2014.0,12,42.0,['Hardcore Hip-Hop'],['Experimental Hip-Hop']
+This Is All Yours,Alt-J,Art Pop,Pop,2014.0,14,55.0,"['Art Pop', 'Indietronica', 'Indie Rock']","['Folktronica', 'Indie Pop', 'Ambient Pop', 'Progressive Pop']"
+Atrocity Exhibition,Danny Brown,Experimental Hip-Hop,Experimental,2016.0,15,47.0,"['Experimental Hip-Hop', 'Hardcore Hip-Hop']","['Abstract Hip-Hop', 'Industrial Hip-Hop']"
+Settle (Deluxe Version),Disclosure,UK Garage,Electronic,2013.0,18,81.0,"['UK Garage', 'Deep House', 'Future House']","['UK Bass', 'UK Funky', 'Dance-Pop']"
+The Positions (Deluxe Edition),Gang Of Youths,Indie Rock,Rock,2015.0,15,81.0,['Indie Rock'],[]
+Section.80,Kendrick Lamar,West Coast Hip-Hop,Hip-Hop,2011.0,16,60.0,"['West Coast Hip-Hop', 'Conscious Hip-Hop']",['Jazz Rap']
+Bottomless Pit,Death Grips,Industrial Hip-Hop,Experimental,2016.0,13,39.0,"['Industrial Hip-Hop', 'Abstract Hip-Hop', 'Experimental Hip-Hop']","['Digital Hardcore', 'Noise Rock', 'Glitch Hop', 'Electro-Industrial', 'Synth Punk']"
+Learn to Exist,The Jungle Giants,Indie Rock,Rock,2013.0,12,44.0,['Indie Rock'],['Indie Pop']
+Innerspeaker,Tame Impala,Psychedelic Rock,Psychedelic,2010.0,11,53.0,"['Psychedelic Rock', 'Neo-Psychedelia']",['Psychedelic Pop']
+Blue Planet Eyes,The Preatures,Indie Pop,Pop,2014.0,10,35.0,"['Indie Pop', 'Nu-Disco']",['Dance-Punk']
+Floss,Injury Reserve,Hardcore Hip-Hop,Hip-Hop,2016.0,12,42.0,['Hardcore Hip-Hop'],"['Trap Rap', 'Experimental Hip-Hop', 'Jazz Rap', 'Conscious Hip-Hop']"
+99.9%,Kaytranada,Alternative R&B,R&B,2016.0,15,59.0,"['Alternative R&B', 'Funky House']","['Instrumental Hip-Hop', 'Synth Funk', 'Wonky', 'Hip House']"
+Paêbirú,Lula Côrtes e Zé Ramalho,Psychedelic Folk,Psychedelic,1975.0,14,57.0,['Psychedelic Folk'],"['Baião', 'Progressive Folk', 'Avant-Folk', 'Jongo', 'Avant-Garde Jazz']"
+Arc,Everything Everything,Art Pop,Pop,2013.0,13,48.0,"['Art Pop', 'Indie Pop']","['Progressive Pop', 'Indietronica', 'Indie Rock', 'Math Rock']"
+In the Silence,Ásgeir,Folktronica,Folk,2014.0,0,45.0,"['Folktronica', 'Indie Folk', 'Art Pop']",[]
+Honor Killed The Samurai,Ka,Abstract Hip-Hop,Hip-Hop,2016.0,10,36.0,"['Abstract Hip-Hop', 'East Coast Hip-Hop', 'Experimental Hip-Hop']",['Conscious Hip-Hop']
+Teens Of Style,Car Seat Headrest,Lo-Fi Indie,Rock,2015.0,11,47.0,"['Lo-Fi Indie', 'Indie Rock']","['Noise Pop', 'Power Pop']"
+"Sometimes I Sit and Think, and Sometimes I Just Sit",Courtney Barnett,Indie Rock,Rock,2015.0,11,44.0,"['Indie Rock', 'Singer/Songwriter']",['Garage Rock']
+Process,Sampha,Alternative R&B,R&B,2017.0,10,40.0,['Alternative R&B'],"['Neo-Soul', 'Future Garage', 'Art Pop', 'UK Bass']"
+Straight Outta Compton,N.W.A,Gangsta Rap,Hip-Hop,1988.0,13,60.0,"['Gangsta Rap', 'West Coast Hip-Hop']","['Political Hip-Hop', 'Turntablism']"
+Wildflower,The Avalanches,Plunderphonics,Electronic,2016.0,21,60.0,"['Plunderphonics', 'Psychedelic Pop']","['Hip-Hop', 'Neo-Psychedelia', 'Nu-Disco', 'Alternative Dance', 'Sunshine Pop']"
+Mm.. Food,MF DOOM,Abstract Hip-Hop,Hip-Hop,2004.0,15,49.0,"['Abstract Hip-Hop', 'East Coast Hip-Hop']","['Experimental Hip-Hop', 'Plunderphonics', 'Jazz Rap']"
+Parcels,Parcels,Nu-Disco,Electronic,2018.0,12,52.0,['Nu-Disco'],['Funktronica']
+The Weather,Pond,Psychedelic Pop,Psychedelic,2017.0,10,40.0,"['Psychedelic Pop', 'Synthpop']","['Neo-Psychedelia', 'Hypnagogic Pop']"
+Merriweather Post Pavilion,Animal Collective,Psychedelic Pop,Psychedelic,2009.0,11,53.0,"['Psychedelic Pop', 'Neo-Psychedelia']","['Electronic', 'Art Pop', 'Sunshine Pop']"
+Habit,Snail Mail,Indie Rock,Rock,2016.0,7,30.0,"['Indie Rock', 'Lo-Fi Indie']","['Slowcore', 'Midwest Emo']"
+Injury Reserve,Injury Reserve,Experimental Hip-Hop,Hip-Hop,2019.0,13,38.0,['Experimental Hip-Hop'],"['Industrial Hip-Hop', 'Hardcore Hip-Hop', 'Glitch Hop']"
+Cigarettes After Sex,Cigarettes After Sex,Dream Pop,Pop,2017.0,10,47.0,"['Dream Pop', 'Slowcore']",['Ambient Pop']
+"I Love You, Honeybear",Father John Misty,Indie Folk,Folk,2015.0,11,45.0,"['Indie Folk', 'Singer/Songwriter']",['Chamber Folk']
+DAMN.,Kendrick Lamar,West Coast Hip-Hop,Hip-Hop,2017.0,14,54.0,"['West Coast Hip-Hop', 'Conscious Hip-Hop']","['Trap Rap', 'Pop Rap', 'Political Hip-Hop', 'Contemporary R&B']"
+Selected Ambient Works 85-92,Aphex Twin,Ambient Techno,Electronic,1992.0,13,72.0,"['Ambient Techno', 'IDM']",['Ambient']
+Museum,Ball Park Music,Indie Pop,Pop,2012.0,12,42.0,"['Indie Pop', 'Indie Rock']",[]
+This Is Our Vice,Cub Sport,Indie Pop,Pop,2016.0,11,37.0,['Indie Pop'],[]
+Thinking in Textures,Chet Faker,Indietronica,R&B,2012.0,7,29.0,"['Indietronica', 'Alternative R&B', 'Trip Hop']","['Blue-Eyed Soul', 'Downtemp', 'Contemporary R&B']"
+Float Along - Fill Your Lungs,King Gizzard & The Lizard Wizard,Psychedelic Rock,Psychedelic,2013.0,8,42.0,"['Psychedelic Rock', 'Garage Rock']","['Blues Rock', 'Neo-Psychedelia', 'Noise Rock', 'Krautrock']"
+Live From the Dentist Office,Injury Reserve,Jazz Rap,Hip-Hop,2015.0,11,46.0,['Jazz Rap'],"['Wonky', 'Conscious Hip-Hop', 'Experimental Hip-Hop', 'Alternative R&B']"
+Quiet Ferocity,The Jungle Giants,Indie Pop,Pop,2017.0,10,42.0,['Indie Pop'],['Indie Rock']
+Norman Fucking Rockwell!,Lana Del Rey,Singer/Songwriter,Pop,2019.0,14,68.0,"['Singer/Songwriter', 'Art Pop']","['Dream Pop', 'Soft Rock', 'Piano Rock', 'Neo-Psychedelia']"
+"""Awaken, My Love!""",Childish Gambino,Psychedelic Soul,R&B,2016.0,11,49.0,"['Psychedelic Soul', 'Funk', 'Neo-Soul']","['P-Funk', 'Psychedelic Rock', 'Synth Funk']"
+Happiness And Surrounding Suburbs,Ball Park Music,Indie Pop,Pop,2011.0,11,37.0,"['Indie Pop', 'Indie Rock']",[]
+Neō Wax Bloom,Iglooghost,UK Bass,Electronic,2017.0,11,41.0,"['UK Bass', 'Wonky']","['Bubblegum Bass', 'Glitch Hop', 'Drill and Bass', 'Grime', 'Glitch Pop', 'Future Bass', 'Deconstructed Club', 'UK Bass', 'UK Bass']"
+Feeler,Pete Murray,Singer/Songwriter,Folk,2003.0,11,41.0,['Singer/Songwriter'],['Folk Rock']
+My Head Is An Animal,Of Monsters & Men,Indie Folk,Folk,2012.0,13,54.0,['Indie Folk'],"['Folk Pop', 'Indie Pop', 'Chamber Pop']"
+We got it from Here... Thank You 4 Your service,A Tribe Called Quest,Conscious Hip-Hop,Hip-Hop,2016.0,16,60.0,"['Conscious Hip-Hop', 'East Coast Hip-Hop', 'Jazz Rap']","['Political Hip-Hop', 'Boom Bap']"
+NO_ONE EVER REALLY DIES,N*E*R*D,Pop Rap,Hip-Hop,2017.0,11,51.0,"['Pop Rap', 'Experimental Hip-Hop']","['Synth Punk', 'Juke', 'Conscious Hip-Hop', 'Dance-Punk']"
+Autobahn,Kraftwerk,Progressive Electronic,Electronic,1992.0,5,43.0,['Progressive Electronic'],"['Ambient', 'Berlin School']"
+SATURATION III,BROCKHAMPTON,Pop Rap,Hip-Hop,2017.0,15,46.0,"['Pop Rap', 'West Coast Hip-Hop']","['Alternative R&B', 'Hardcore Hip-Hop', 'Experimental Hip-Hop']"
+Oddments,King Gizzard & The Lizard Wizard,Psychedelic Rock,Psychedelic,2014.0,12,32.0,"['Psychedelic Rock', 'Psychedelic Pop']","['Folk Rock', 'Garage Rock', 'Progressive Pop']"
+FM!,Vince Staples,West Coast Hip-Hop,Hip-Hop,2018.0,11,22.0,"['West Coast Hip-Hop', 'Trap Rap']","['Hyphy', 'Gangsta Rap']"
+ye,Kanye West,Pop Rap,Hip-Hop,2018.0,7,24.0,['Pop Rap'],"['Contemporary R&B', 'Neo-Soul', 'Art Pop']"
+Sing Street (Original Motion Picture Soundtrack),Various Artists,New Wave,Pop,2016.0,17,51.0,"['New Wave', 'Pop Rock']",['Synthpop']
+Murder Of The Universe,King Gizzard & The Lizard Wizard,Psychedelic Rock,Psychedelic,2017.0,21,47.0,"['Psychedelic Rock', 'Garage Rock', 'Spoken Word']","['Heavy Psych', 'Space Rock', 'Progressive Rock', 'Noise Rock']"
+Like Drawing Blood,Gotye,Indietronica,Pop,2006.0,22,48.0,"['Indietronica', 'Art Pop']","['Indie Pop', 'Trip Hop', 'Downtemp']"
+Exmilitary,Death Grips,Hardcore Hip-Hop,Experimental,2011.0,13,49.0,"['Hardcore Hip-Hop', 'Industrial Hip-Hop', 'Experimental Hip-Hop', 'Abstract Hip-Hop']",['Gitch Hop']
+"thank u, next",Ariana Grande,Contemporary R&B,Pop,2019.0,12,41.0,"['Contemporary R&B', 'Pop']","['Trap Rap', 'Electropop']"
+Violator,Depeche Mode,Synthpop,Pop,1990.0,9,47.0,['Synthpop'],[]
+Bandana,Freddie Gibbs & Madlib,Gangsta Rap,Hip-Hop,2019.0,15,46.0,['Gangsta Rap'],"['Jazz Rap', 'Boom Bap', 'Conscious Hip-Hop', 'West Coast Hip Hop']"
+Ágætis Byrjun,Sigur Rós,Post-Rock,Experimental,1999.0,10,72.0,['Post-Rock'],"['Dream Pop', 'Ambient']"
+Let Me Be Clear,Gang Of Youths,Indie Rock,Rock,2016.0,6,34.0,['Indie Rock'],['Chamber Pop']
+SATURATION II,BROCKHAMPTON,Pop Rap,Hip-Hop,2017.0,16,48.0,"['Pop Rap', 'West Coast Hip-Hop']","['Alternative R&B', 'Hardcore Hip-Hop', 'Experimental Hip-Hop']"
+Whispers,Passenger,Singer/Songwriter,Folk,2014.0,11,41.0,"['Singer/Songwriter', 'Indie Folk']",['Folk Pop']
+新しい日の誕生,2 8 1 4,Ambient,Electronic,2015.0,8,67.0,"['Ambient', 'Vaporwave']",['Downtemp']
+Moon Pix,Cat Power,Singer/Songwriter,Folk,1998.0,11,46.0,"['Singer/Songwriter', 'Slowcore']",['Indie Folk']
+Orpheus vs. the Sirens,Hermit and the Recluse,Abstract Hip-Hop,Hip-Hop,2018.0,10,33.0,"['Abstract Hip-Hop', 'East Coast Hip-Hop']","['Experimental Hip-Hop', 'Conscious Hip-Hop']"
+Run Fast Sleep Naked,Nick Murphy,Alternative R&B,R&B,2019.0,11,47.0,"['Alternative R&B', 'Indie Pop']","['Indietronica', 'Art Pop']"
+"Love, Longing and Loss",Touching the Void,Ambient Pop,Electronic,2015.0,9,42.0,['Synthpop'],[]
+The Impossible Kid,Aesop Rock,Abstract Hip-Hop,Hip-Hop,2016.0,15,49.0,"['Abstract Hip-Hop', 'East Coast Hip-Hop']","['Conscious Hip-Hop', 'Boom Bap']"
+Little Dark Age,MGMT,Synthpop,Pop,2018.0,10,44.0,"['Synthpop', 'Neo-Psychedelia', 'Psychedelic Pop']","['Hypnagogic Pop', 'New Wave']"
+Royal Blood,Royal Blood,Hard Rock,Rock,2014.0,10,33.0,"['Hard Rock', 'Alternative Rock']","['Stoner Rock', 'Blues Rock']"
+The Machine That Made Us,Flotation Toy Warning,Chamber Pop,Pop,2017.0,10,61.0,"['Chamber Pop', 'Indie Pop']","['Neo-Psychedelia', 'Dream Pop', 'Progressive Pop']"
+No More Shall We Part,Nick Cave and The Bad Seeds,Singer/Songwriter,Folk,2001.0,12,69.0,"['Singer/Songwriter', 'Piano Rock']",['Chamber Pop']
+Aquemini,Outkast,Southern Hip-Hop,Hip-Hop,1998.0,16,75.0,"['Southern Hip-Hop', 'Conscious Hip-Hop']","['Neo-Soul', 'Funk', 'Experimental Hip-Hop', 'Hardcore Hip-Hop']"
+Internationalist,Powderfinger,Alternative Rock,Rock,1998.0,13,45.0,['Alternative Rock'],['Indie Rock']
+Music For Men,Gossip,Dance-Punk,Rock,2009.0,12,43.0,['Dance-Punk'],"['Indie Rock', 'Post-Punk Revival', 'Synthpop', 'Disco']"
+Black Sands,Bonobo,Downtempo,Electronic,2010.0,12,55.0,['Downtempo'],"['Nu Jazz', 'Trip Hop', 'Future Garage']"
+Homework,Daft Punk,French House,Electronic,1997.0,16,74.0,['French House'],['Tech House']
+Raw Material,Lance Ferguson,Neo-Soul,R&B,2017.0,25,106.0,"['Neo-Soul', 'Experimental Hip-Hop']","['Synth Funk', 'Australian Hip-Hop']"
+Live in Copenhagen,Mount Eerie,Singer/Songwriter,Folk,2004.0,36,114.0,"['Singer/Songwriter', 'Indie Folk']",[]
+Daydreamer,Harts,Funk,R&B,2014.0,10,46.0,['Funk'],['Indie Rock']
+Operation Doomsday,MF DOOM,Abstract Hip-Hop,Hip-Hop,1999.0,19,59.0,"['Abstract Hip-Hop', 'East Coast Hip-Hop']","['Turtablism', 'Experimental Hip-Hop', 'Jazz']"
+Different Class,Pulp,Britpop,Rock,1995.0,12,52.0,['Britpop'],"['Art Rock', 'Glam Rock']"
+Vulture Street,Powderfinger,Alternative Rock,Rock,2003.0,11,44.0,['Alternative Rock'],"['Hard Rock', 'Blues Rock']"
+Dipz Zebazios,The Delta Riggs,Psychedelic Rock,Rock,2014.0,11,43.0,['Psychedelic Rock'],['Indie Rock']
+Drive It Like It's Stolen,Injury Reserve,Hardcore Hip-Hop,Hip-Hop,2017.0,7,24.0,"['Hardcore Hip-Hop', 'West Coast Hip-Hop']","['Conscious Hip-Hop', 'Experimental Hip-Hop', 'Wonky']"
+Every Night the Same Dream,Ball Park Music,Neo-Psychedelia,Rock,2016.0,10,42.0,"['Neo-Psychedelia', 'Indie Rock']",[]
+Minecraft: Volume Alpha,C418,Ambient,Experimental,2011.0,24,59.0,"['Ambient', 'Video Game Music']","['Impressionism', 'Sounds and Effects', 'Electronic']"
+Culture,Migos,Trap Rap,Hip-Hop,2017.0,13,58.0,"['Trap Rap', 'Southern Hip-Hop']",['Pop Rap']
+So We Can Remember,Thundamentals,Australian Hip-Hop,Hip-Hop,2014.0,13,55.0,['Australian Hip-Hop'],['Conscious Hip-Hop']
+uknowhatimsayin¿,Danny Brown,Hardcore Hip-Hop,Hip-Hop,2019.0,11,34.0,"['Hardcore Hip-Hop', 'Abstract Hip-Hop']","['Boom Bap', 'Experimental Hip-Hop', 'Conscious Hip-Hop']"
+Chinese Nü Yr,Iglooghost,Wonky,Electronic,2015.0,4,16.0,"['Wonky', 'Glitch Pop']","['Bubblegum Bass', 'Glitch Hop', 'Drill and Bass', 'Deconstruced Club']"
+Don't Wake Me Up,The Microphones,Noise Pop,Folk,1999.0,15,40.0,"['Noise Pop', 'Lo-Fi Indie']","['Dream Pop', 'Experimental Rock', 'Psychedelic Folk', 'Avant-Folk']"
+Double Rainbow,The Babe Rainbow,Neo-Psychedelia,Psychedelic,2018.0,11,38.0,"['Neo-Psychedelia', 'Psychedelic Pop']","['Canterbury Scene', 'Psychedelic Folk', 'Folk Rock']"
+CLPPNG,clipping.,Industrial Hip-Hop,Experimental,2014.0,14,56.0,"['Industrial Hip-Hop', 'Experimental Hip-Hop']","['Hardcore Hip-Hop', 'Noise', 'Abstract Hip-Hop']"
+Lockjaw - EP,Flume & Chet Faker,Alternative R&B,R&B,2013.0,3,13.0,,
+Second Of Spring,Beaches,Neo-Psychedelia,Psychedelic,2017.0,17,76.0,"['Neo-Psychedelia', 'Dream Pop']",['Shoegaze']
+Caress Your Soul,Sticky Fingers,Pop Reggae,Rock,2013.0,11,39.0,"['Pop Reggae', 'Indie Rock']",[]
+Indigo Child,,,Hip-Hop,,9,41.0,"['Abstract Hip-Hop', 'Southern Hip-Hop']","['Indie Folk', 'Experimental Hip-Hop', 'Neo-Soul']"
+Hungry Ghost,,,Rock,,11,44.0,"['Grunge', 'Alternative Rock']","['Punk Rock', 'Post-Hardcore']"
