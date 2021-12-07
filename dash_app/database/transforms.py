@@ -237,12 +237,6 @@ def plotting_function(start_date:str=None, end_date:str=None, sort_type:str='Scr
     plotting['Total_Time'] = plotting.groupby([group_by_dict[group_type]['group_by']]).cumsum()['Total_Time']
     plotting['Plays'] = plotting.groupby([group_by_dict[group_type]['group_by']]).cumsum()['Plays']
 
-
-
-    # labels = {'Name':group_type}
-
-    # fig = px.line(plotting, x="Date", y=sort_type_dict[sort_type], color='Name',line_group=group_by_dict[group_type]['group_by'],labels=labels)
-    # fig.show()
     output_dictionary = {
         'dataframe':output,
         'start_date':start_date,

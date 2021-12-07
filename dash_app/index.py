@@ -5,17 +5,16 @@ from dash import html
 from dash import dash_table
 from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
-
 from app import app
 from tabs import sidepanel, tab1, tab2
 import dash
 from dash.dependencies import Input, Output
 import pandas as pd
-
 from database.transforms import plotting_function
 
 app.layout = sidepanel.layout
 
+# Render tab layouts
 @app.callback(Output('tabs-content', 'children'),
               [Input('tabs', 'value')])
 def render_content(tab):
@@ -24,6 +23,7 @@ def render_content(tab):
     elif tab == 'tab-2':
         return tab2.layout
 
+#Update data based on input
 @app.callback(
     Output('table-sorting-filtering', 'data')
     , [Input('Grouping-select','value'),Input('sort-by-select','value'),Input('table-sorting-filtering', "page_current"), Input('table-sorting-filtering', "page_size")
