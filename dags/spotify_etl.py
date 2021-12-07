@@ -9,24 +9,30 @@ def run_extraction():
     import spotipy
     from spotipy.oauth2 import SpotifyClientCredentials
     import spotipy.util as util
+    import os
 
     ### Last.fm Connection ###
-    LASTFM_KEY = 'e41d26b77e9a1582e070a7c10988db01'
-    LASTFM_SECRET = '66e19651c53c250d986e2714a707a280'
+    LASTFM_KEY = os.environ.get('LASTFM_KEY')
+    LASTFM_SECRET = os.environ.get('LASTFM_SECRET')
     LASTFM_USERNAME = 'sabbouma10'
     LASTFM_NOW_PLAYING = '@attr'
     LASTFM_URL = 'https://ws.audioscrobbler.com/2.0/'
 
 
     ### SQL Connection ###
-    engine = create_engine('mysql+mysqlconnector://root:E2ab6214@localhost:3306/Spotify')
+    SQL_PASSWORD = os.environ.get('SQL_PASSWORD')
+    SQL_DB = os.environ.get('SQL_DATABASE')
+    engine = create_engine('mysql+mysqlconnector://root:{password}@localhost:3306/{database}'.format(
+        password=SQL_PASSWORD,
+        database=SQL_DB
+    ))
     connection = engine.connect()
 
     ### Spotify Connection ###
-    client_id = '09d24c54f26846ffa2d5a8558bec67ec'
-    client_secret = 'c47357ccf2a34dafb217db4f5ffe19ea'
-    username = '21yobvumig9zige7acjzlues5'
-    playlist_id = '4KSvFXi3cuV7x44sSNVgBy'
+    SPOTIFY_CLIENT_ID = os.environ.get('SPOTIFY_CLIENT_ID')
+    SPOTIFY_CLIENT_SECRET = os.environ.get('SPOTIFY_CLIENT_SECRET')
+    SPOTIFY_USERNAME = os.environ.get('SPOTIFY_USERNAME')
+    SPOTIFY_PLAYLIST_ID = os.environ.get('SPOTIFY_PLAYLIST_ID')
 
     scope = "playlist-read-private "
     scope += "playlist-modify-public "
@@ -35,7 +41,7 @@ def run_extraction():
     scope += "user-library-read "
     scope += "user-read-recently-played"
 
-    token = util.prompt_for_user_token(username,scope,client_id=client_id,client_secret=client_secret,redirect_uri='https://developer.spotify.com/dashboard/applications/09d24c54f26846ffa2d5a8558bec67ec') 
+    token = util.prompt_for_user_token(SPOTIFY_USERNAME,scope,client_id=SPOTIFY_CLIENT_ID,client_secret=SPOTIFY_CLIENT_SECRET,redirect_uri='https://developer.spotify.com/dashboard/applications/09d24c54f26846ffa2d5a8558bec67ec') 
     sp = spotipy.Spotify(auth=token)
 
     def lastfm_get(payload):
@@ -200,7 +206,7 @@ def run_extraction():
     while page <= total_pages:
         print("Requesting playlist page {}/{}".format(page, total_pages))
         clear_output(wait = True)
-        response = sp.playlist_tracks(playlist_id, fields=None, limit=limit_playlist, offset=(page-1)*limit_playlist, market=None)
+        response = sp.playlist_tracks(SPOTIFY_PLAYLIST_ID, fields=None, limit=limit_playlist, offset=(page-1)*limit_playlist, market=None)
         if len(response['items']) == 0:
             print("Failed:\n{}".format(response))
             break

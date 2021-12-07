@@ -2,6 +2,7 @@ from datetime import timedelta
 import datetime
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
+from airflow.models import Variable
 
 from spotify_etl import run_extraction, run_transformation
 
@@ -22,11 +23,6 @@ dag = DAG(
     description='test dag',
     schedule_interval=timedelta(days=1),
 )
-
-
-def helper_function():
-    print("this is the helper_function output")
-
 
 extraction = PythonOperator(
     task_id='extraction',
